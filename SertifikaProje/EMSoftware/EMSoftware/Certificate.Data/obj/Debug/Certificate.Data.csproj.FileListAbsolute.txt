@@ -1,0 +1,12 @@
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\Certificate.Data.dll.config
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\Certificate.Data.dll
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\Certificate.Data.pdb
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\EntityFramework.dll
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\EntityFramework.xml
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\obj\Debug\Certificate.Data.csproj.AssemblyReference.cache
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\obj\Debug\Certificate.Data.csproj.CoreCompileInputs.cache
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\obj\Debug\Certificate.Data.csproj.CopyComplete
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\obj\Debug\Certificate.Data.dll
+C:\Users\techn\Desktop\EMSoftware\EMSoftware\Certificate.Data\obj\Debug\Certificate.Data.pdb

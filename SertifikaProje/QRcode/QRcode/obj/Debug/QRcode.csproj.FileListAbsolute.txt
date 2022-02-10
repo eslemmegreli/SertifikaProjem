@@ -1,0 +1,12 @@
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\bin\Debug\QRcode.exe
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\bin\Debug\QRcode.pdb
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.AssemblyReference.cache
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.CopyComplete
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.exe
+C:\Users\Eslem Meğreli\source\repos\QRcode\QRcode\obj\Debug\QRcode.pdb

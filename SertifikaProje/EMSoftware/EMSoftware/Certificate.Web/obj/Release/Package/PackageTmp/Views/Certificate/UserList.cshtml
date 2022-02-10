@@ -1,0 +1,33 @@
+﻿@*@using PagedList
+@using PagedList.Mvc*@
+@model CertificateProject.ViewModel.CertificateViewModel
+
+
+@{
+    ViewBag.Title = "Sertifika Listesi";
+    Layout = "~/Views/Shared/_MainLayoutView.cshtml";
+}
+
+<h1>Kullanıcı Listesi</h1>
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Certificate No</th>
+        <th>Name</th>
+        <th>Surname</th>
+    </tr>
+    @foreach (var x in Model.certificates)
+    {
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.CertificateID</td>
+            <td>@x.Name</td>
+            <td>@x.Surname</td>
+        </tr>
+    }
+</table>
+@*@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("UserList", new { sayfa }))*@
+
+<asp:Button runat="server" Text="Button"></asp:Button>

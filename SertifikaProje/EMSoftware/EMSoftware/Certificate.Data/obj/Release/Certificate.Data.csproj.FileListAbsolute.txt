@@ -1,0 +1,11 @@
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\Certificate.Data.dll.config
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\Certificate.Data.dll
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\Certificate.Data.pdb
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\EntityFramework.dll
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\EntityFramework.xml
+C:\EMSoftware\EMSoftware\Certificate.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\EMSoftware\EMSoftware\Certificate.Data\obj\Release\Certificate.Data.csproj.CoreCompileInputs.cache
+C:\EMSoftware\EMSoftware\Certificate.Data\obj\Release\Certificate.Data.csproj.CopyComplete
+C:\EMSoftware\EMSoftware\Certificate.Data\obj\Release\Certificate.Data.dll
+C:\EMSoftware\EMSoftware\Certificate.Data\obj\Release\Certificate.Data.pdb
